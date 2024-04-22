@@ -1,4 +1,7 @@
-# Distributed Task Manager with Raft Consensus
+# PES1UG21CS038_PES1UG21CS050_PES1UG21CS061_PES2UG22CS809_Task_Management_with_Raft_Consensus
+
+ #                                    Problem Statement 2:
+# Building a Task Management Application with Raft Consensus Algorithm and MySQL
 
 This is a task management application that leverages the Raft consensus algorithm to ensure consistency and fault tolerance across multiple nodes. The backend is built using Python's Streamlit framework and MySQL to store task data.
 
